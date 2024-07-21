@@ -1,4 +1,6 @@
 # Data Structures and Algorithm-Python
+### Table of Content
+- [Linear Search](#linear-search-bruteforce)
 
 #### Linear Search-BruteForce
 ##### Q. Alice has some cards with numbers written on them. She arranges the cards in decreasing order, and lays them out face down in a sequence on a table. She challenges Bob to pick out the card containing a given number b turning over as few cards as possible. Write a function to help Bob locate the card.
@@ -38,4 +40,7 @@ Below are the test cases used for validating the function:
 8. **Test Case 8**  
    - **Input:** `cards = [13, 11, 10, 7, 7, 7, 4, 3, 1, 0]`, `query = 7`
    - **Output:** `3`
+
+##### Source Code
+- [Linear Search](https://github.com/Adeen317/DSA-Python/blob/main/LinearSearch.py)
 
