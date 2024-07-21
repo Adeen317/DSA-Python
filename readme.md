@@ -41,5 +41,6 @@ Below are the test cases used for validating the function:
    - **Input:** `cards = [13, 11, 10, 7, 7, 7, 4, 3, 1, 0]`, `query = 7`
    - **Output:** `3`
 
+##### Source Code
 - [Linear Search](https://github.com/Adeen317/DSA-Python/blob/main/LinearSearch.py)
 
